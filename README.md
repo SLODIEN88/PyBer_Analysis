@@ -1,6 +1,7 @@
 # PyBer_Analysis
 
 # Overview
+The purpose of this analysis was to create a summary dataframe of the ride-sharing data by city type. This was done by calculating the total rides, number of drivers and the sum of all the fares. With the information got, be able to crate a five thirty eith graph to illustate the results as shown down below. The data differs slightly from city to city as show below
 
 # Results
 
