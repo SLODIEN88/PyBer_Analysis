@@ -13,4 +13,4 @@ The purpose of this analysis was to create a summary dataframe of the ride-shari
 
 
 # Summary
-
+The rural areas has fewer rides hence the low fares. The Urban had the most rides, hence the higher fares
